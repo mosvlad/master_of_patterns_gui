@@ -17,7 +17,8 @@
 The Pattern Nesting Tool is a specialized application designed for the garment and textile industry that helps maximize material usage by optimizing pattern layouts. By efficiently arranging pattern pieces on fabric markers, this tool reduces material waste, saves time, and improves production efficiency.
 
 <div align="center">
-  <img src="docs/images/preview.png" alt="Pattern Nesting Preview" width="600"/>
+  <img src="https://github.com/user-attachments/assets/4d1ffa62-116e-491a-af7d-55615c1d9810" width=600/>
+
   <p><em>Pattern nesting optimization example</em></p>
 </div>
 
@@ -108,12 +109,14 @@ For more detailed instructions, see the [Usage Guide](docs/usage_guide.md).
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="docs/images/main-window.png" alt="Main Application Window" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f9d0ba7d-45d5-4695-bdfe-32a40851f0b1" width=600/>
+
   <p><em>Main application window</em></p>
 </div>
 
 <div align="center">
-  <img src="docs/images/nesting-result.png" alt="Nesting Result" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b1e06733-c25c-48fc-b06c-3b233d4aaf77" width=600/>
+
   <p><em>Nesting result visualization</em></p>
 </div>
 
