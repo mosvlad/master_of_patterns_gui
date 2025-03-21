@@ -4,7 +4,7 @@
   
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
-![License](https://img.shields.io/badge/license-Proprietary-red.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **A tool for pattern layout optimization in the garment industry**
 
@@ -45,7 +45,7 @@ The Pattern Nesting Tool is a specialized application designed for the garment a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pattern-nesting.git
+git clone https://github.com/mosvlad/master_of_patterns_gui
 cd pattern-nesting
 
 # Install dependencies
